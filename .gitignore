@@ -1,0 +1,17 @@
+# Toolchain & binary outputs
+*.o
+*.obj
+*.elf
+*.bin
+*.hex
+*.out
+
+# Build directories
+build/
+bin/
+
+# IDE & Editor artifacts
+.vscode/
+.idea/
+Thumbs.db
+*~
